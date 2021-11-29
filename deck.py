@@ -15,7 +15,7 @@ class Deck:
 
     def supprime(self):
         #a=(len(self.L)-1)
-        del(self.L[-1])    
+        del(self.L[-1])
 
     def voir(self):
          print(self.L[-1])

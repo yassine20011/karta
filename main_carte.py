@@ -49,8 +49,3 @@ app.addButton("user2", button_user2, 2, 2)
 
 
 app.go()
-
-
-
-
- 
