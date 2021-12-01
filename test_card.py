@@ -8,6 +8,5 @@ def random_card_Nbr():
     t = random.choice(types)
     n = random.choice(nums)
     c = Carte(n,t)
-   
     return [n,t]
 
